@@ -37,7 +37,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ### :busts_in_silhouette: Compiler
 <!-- COMPILER:START -->
-- [LLVM]https://github.com/llvm/llvm-project
+- [LLVM](https://github.com/llvm/llvm-project)
 <!-- COMPILER:START -->
 
 ### :feelsgood: Games
