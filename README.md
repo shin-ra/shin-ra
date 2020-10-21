@@ -26,28 +26,45 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ## :star2: Curated Stars
 
+### 📕 Libraries, Interfaces, Frameworks
+
+<!-- LIB:START -->
+- [stb](https://github.com/nothings/stb)
+- [Dear ImGui](https://github.com/ocornut/imgui)
+- [React](https://github.com/facebook/react)
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+<!-- LIB:END -->
+
+### :busts_in_silhouette: Compiler
+<!-- COMPILER:START -->
+- [LLVM]https://github.com/llvm/llvm-project
+<!-- COMPILER:START -->
+
 ### :feelsgood: Games
 <!-- GAME:START -->
 - [DOOM](https://github.com/id-Software/DOOM-3)
 - [Quake](https://github.com/id-Software/Quake)
-- [AmnesiaAMachineForPigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs)
-- [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent)
 <!-- GAME:END -->
 
+### :godmode: Modding
+<!-- MOD:START -->
+- [TrenchBroom](https://github.com/TrenchBroom/TrenchBroom)
+<!-- MOD:END -->
+
+### 📕 Other
+
+<!-- OTHER:START -->
+- [Anki](https://github.com/ankitects/anki)
+- [Apollo-11](https://github.com/chrislgarry/Apollo-11)
+- [fzf](https://github.com/junegunn/fzf)
+<!-- OTHER:END -->
+
 ---
-
-### 📕 Libs, Interfaces, Frameworks
-
-<!-- LIB:START -->
-- [stb](https://github.com/nothings/stb)
-<!-- LIB:END -->
-
----
-
 ## 📺 Learning resources
 
 <!-- LEARN:START -->
 - [Handmade Hero](https://handmadehero.org/watch)
+- [Learn OpenGL](https://learnopengl.com/)
 <!-- LEARN:END -->
 
 [C]: https://github.com/topics/c 
