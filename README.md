@@ -53,6 +53,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 [Rust]: https://github.com/rust-lang/rust 
 [JavaScript]: https://github.com/topics/javascript 
 [TypeScript]: https://github.com/microsoft/TypeScript 
+[Sass]: https://github.com/sass/sass 
 
 [neovim]: https://github.com/neovim/neovim 
 [Git]: https://gitlab.com/ 
