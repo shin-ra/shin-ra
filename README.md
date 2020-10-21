@@ -24,7 +24,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ---
 
-## :sparkling_heart: Curated Stars
+## :sparkling_heart: Curated Git
 
 ### :blue_book: Libraries, Interfaces, Frameworks
 
