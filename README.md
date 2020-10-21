@@ -42,8 +42,8 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ### :feelsgood: Games
 <!-- GAME:START -->
-- [DOOM](https://github.com/id-Software/DOOM-3)
 - [Quake](https://github.com/id-Software/Quake)
+- [DOOM](https://github.com/id-Software/DOOM-3)
 - [DOOM 3: BFG Edition](https://github.com/id-Software/DOOM-3-BFG)
 <!-- GAME:END -->
 
