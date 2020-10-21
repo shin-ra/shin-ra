@@ -26,7 +26,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ## :star2: Curated Stars
 
-### 📕 Libraries, Interfaces, Frameworks
+### :blue_book: Libraries, Interfaces, Frameworks
 
 <!-- LIB:START -->
 - [stb](https://github.com/nothings/stb)
@@ -51,7 +51,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 - [TrenchBroom](https://github.com/TrenchBroom/TrenchBroom)
 <!-- MOD:END -->
 
-### 📕 Other
+### :floppy_disk: Other
 
 <!-- OTHER:START -->
 - [Anki](https://github.com/ankitects/anki)
@@ -60,7 +60,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 <!-- OTHER:END -->
 
 ---
-## 📺 Learning resources
+## :mortar_board: Learning resources
 
 <!-- LEARN:START -->
 - [Handmade Hero](https://handmadehero.org/watch)
