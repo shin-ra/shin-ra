@@ -31,8 +31,8 @@ Supplying Mako energy and making electricity efficient and easily available.
 <!-- LIB:START -->
 - [stb](https://github.com/nothings/stb)
 - [Dear ImGui](https://github.com/ocornut/imgui)
-- [React](https://github.com/facebook/react)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [React](https://github.com/facebook/react)
 <!-- LIB:END -->
 
 ### :busts_in_silhouette: Compiler
@@ -44,6 +44,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 <!-- GAME:START -->
 - [DOOM](https://github.com/id-Software/DOOM-3)
 - [Quake](https://github.com/id-Software/Quake)
+- [DOOM 3: BFG Edition](https://github.com/id-Software/DOOM-3-BFG)
 <!-- GAME:END -->
 
 ### :godmode: Modding
