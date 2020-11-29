@@ -59,7 +59,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 ## :mortar_board: Learning resources
 
 <!-- LEARN:START -->
-- [Handmade Hero](https://handmadehero.org/watch)
+- [Handmade Hero](https://handmadehero.org/)
 - [Learn OpenGL](https://learnopengl.com/)
 <!-- LEARN:END -->
 
