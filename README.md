@@ -32,7 +32,6 @@ Supplying Mako energy and making electricity efficient and easily available.
 - [stb](https://github.com/nothings/stb)
 - [Dear ImGui](https://github.com/ocornut/imgui)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- [React](https://github.com/facebook/react)
 <!-- LIB:END -->
 
 ### :feelsgood: Games
