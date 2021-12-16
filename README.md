@@ -32,6 +32,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 - [Sokol](https://github.com/floooh/sokol)
 - [GLFW](https://github.com/glfw/glfw)
 - [SDL](https://github.com/libsdl-org/SDL)
+- [bgfx](https://github.com/bkaradzic/bgfx)
 - [stb](https://github.com/nothings/stb)
 - [Dear ImGui](https://github.com/ocornut/imgui)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg)
