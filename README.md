@@ -29,6 +29,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 ### :blue_book: Libraries, Interfaces, Frameworks
 
 <!-- LIB:START -->
+- [Raylib](https://github.com/raysan5/raylib)
 - [Sokol](https://github.com/floooh/sokol)
 - [GLFW](https://github.com/glfw/glfw)
 - [SDL](https://github.com/libsdl-org/SDL)
