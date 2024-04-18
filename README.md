@@ -4,8 +4,8 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ### Languages:
 
-[C][C] 
-[CPP][Cpp] 
+[C](C)
+[CPP](Cpp) 
 [Javascript][JavaScript] 
 [Go][go] 
 
