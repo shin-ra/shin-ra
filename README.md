@@ -12,6 +12,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 ### Tools:
 
 - [Neovim][neovim]
+- [Kitty][Kitty]
 
 <br />
 
@@ -65,5 +66,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 [Go]: https://github.com/topics/go
 [JavaScript]: https://github.com/topics/javascript
 
+
 [neovim]: https://github.com/neovim/neovim 
+[Kitty]: https://github.com/kovidgoyal/kitty
 
