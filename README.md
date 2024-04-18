@@ -6,18 +6,14 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][Cpp]
-[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][Rust]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass]
+[<img align="left" alt="JavaScript" width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>][go]
 
 <br />
 
 ### Tools:
 
 [<img align="left-center" alt="NeoVim" width="46px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][neovim]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 <br />
 <br />
@@ -69,12 +65,8 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 [C]: https://github.com/topics/c 
 [Cpp]: https://github.com/topics/cpp 
-[Rust]: https://github.com/rust-lang/rust 
-[JavaScript]: https://github.com/topics/javascript 
-[TypeScript]: https://github.com/microsoft/TypeScript 
-[Sass]: https://github.com/sass/sass 
+[Go]: https://github.com/topics/go
+[JavaScript]: https://github.com/topics/javascript
 
 [neovim]: https://github.com/neovim/neovim 
-[Git]: https://gitlab.com/ 
-[Terminal]: https://github.com/Maximus5/ConEmu 
 
