@@ -11,9 +11,8 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 ### Tools:
 
-[<img align="left-center" alt="NeoVim" width="46px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][neovim]
+- [Neovim][neovim]
 
-<br />
 <br />
 
 ---
