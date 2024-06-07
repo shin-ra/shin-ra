@@ -70,3 +70,6 @@ Supplying Mako energy and making electricity efficient and easily available.
 [neovim]: https://github.com/neovim/neovim 
 [Kitty]: https://github.com/kovidgoyal/kitty
 
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://oyster.ignimgs.com/mediawiki/apis.ign.com/final-fantasy-vii-remake/4/47/Final_Fantasy_VII_Remake_-_Walkthrough_-_Chapter_16_-_Lead_Image.png?width=2240');]{x0000}$}
