@@ -13,6 +13,7 @@ Supplying Mako energy and making electricity efficient and easily available.
 
 - [Neovim][neovim]
 - [Kitty][Kitty]
+- [RAD Debugger](https://github.com/EpicGamesExt/raddebugger)
 
 <br />
 
